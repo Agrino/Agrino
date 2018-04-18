@@ -19,7 +19,7 @@
           },
           "url": "https://agrino.github.io/Agrino/downloads/agrino-0.0.1.zip",
           "archiveFileName": "agrino-0.0.1.zip",
-          "checksum": "SHA-256:7da9fc0bce9421e019a48fe206433840",
+          "checksum": "SHA-256:feeaf024ea25279748edcaa53a4e1a4c3ee90f9aca4b1b0640e5ffb30316ab26",
           "size": "4209154",
           "boards": [
             {"name": "Agrino"}
