@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "Agrino",
+      "maintainer": "Kobe Yu",
+      "websiteURL": "https://agrino.github.io/Agrino/",
+      "email": "kobe0308@gmail.com",
+      "help": {
+        "online": "https://agrino.github.io/Agrino/"
+      },
+      "platforms": [
+        {
+          "name": "Agrino",
+          "architecture": "avr",
+          "version": "0.0.1",
+          "category": "Contributed",
+          "help": {
+            "online": "https://agrino.github.io/Agrino/"
+          },
+          "url": "https://agrino.github.io/agrino/downloads/agrino-0.0.1.zip",
+          "archiveFileName": "agrino-0.0.1.zip",
+          "checksum": "SHA-256:ec3ff8a1dc96d3ba6f432b9b837a35fd4174a34b3d2927de1d51010e8b94f9f1",
+          "size": "15005",
+          "boards": [
+            {"name": "Agrino"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
