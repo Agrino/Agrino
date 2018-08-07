@@ -12,7 +12,7 @@
         {
           "name": "Agrino",
           "architecture": "samd",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "category": "Contributed",
           "help": {
             "online": "https://agrino.github.io/Agrino/"
