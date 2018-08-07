@@ -12,15 +12,15 @@
         {
           "name": "Agrino",
           "architecture": "samd",
-          "version": "0.0.2",
+          "version": "0.0.3",
           "category": "Contributed",
           "help": {
             "online": "https://agrino.github.io/Agrino/"
           },
-          "url": "https://agrino.github.io/Agrino/downloads/agrino-0.0.2.zip",
-          "archiveFileName": "agrino-0.0.2.zip",
-          "checksum": "SHA-256:851da3c0169357be3d92393d0fdf66297c1436dc9f9dc19841b59ce3209d6f0a",
-          "size": "4209154",
+          "url": "https://agrino.github.io/Agrino/downloads/agrino-0.0.3.zip",
+          "archiveFileName": "agrino-0.0.3.zip",
+          "checksum": "SHA-256:5db49ac60d137f34fbeb320a0fe26be63ee327290a64afea3967bf32408bc71e",
+          "size": "4278112",
           "boards": [
             {"name": "Agrino EVB"}
           ],
