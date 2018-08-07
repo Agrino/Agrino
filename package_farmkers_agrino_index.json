@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "Agrino",
-          "architecture": "avr",
+          "architecture": "samd",
           "version": "0.0.1",
           "category": "Contributed",
           "help": {
@@ -27,13 +27,13 @@
           "toolsDependencies": [
             {
               "packager": "arduino",
-              "name": "avr-gcc",
-              "version": "4.8.1-arduino5"
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
             },
             {
               "packager": "arduino",
-              "name": "avrdude",
-              "version": "6.0.1-arduino5"
+              "name": "bossac",
+              "version": "1.7.0"
             }
           ]
         }
