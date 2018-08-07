@@ -17,8 +17,8 @@
           "help": {
             "online": "https://agrino.github.io/Agrino/"
           },
-          "url": "https://agrino.github.io/Agrino/downloads/agrino-0.0.1.zip",
-          "archiveFileName": "agrino-0.0.1.zip",
+          "url": "https://agrino.github.io/Agrino/downloads/agrino-0.0.2.zip",
+          "archiveFileName": "agrino-0.0.2.zip",
           "checksum": "SHA-256:851da3c0169357be3d92393d0fdf66297c1436dc9f9dc19841b59ce3209d6f0a",
           "size": "4209154",
           "boards": [
